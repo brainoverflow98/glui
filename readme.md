@@ -216,6 +216,9 @@ and add the OpenGL libs:
 
 Include the file "glui.h" in any file that uses the GLUI library.
 
+To relieve some headache for VS users: GLUI-2.36-compiled-in-VS2017
+https://github.com/brainoverflow98/GLUI-2.36-compiled-in-VS2017
+
 
 ### Unix
 
